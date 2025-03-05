@@ -5,9 +5,9 @@ use node `main.js` command to run
 
 
 two endpoints are here:
-/api/addschool with required body data {name, address, longitude, latitude} method:POST
-/api/listschools with params {longitude, latitude} method:GET
-/api/ gives welcome message method:GET
+`/api/addschool with required body data {name, address, longitude, latitude} method:POST`
+`/api/listschools with params {longitude, latitude} method:GET`
+`/api/ gives welcome message method:GET`
 
 
 enjoy the Backend
